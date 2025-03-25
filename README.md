@@ -2,7 +2,7 @@
 
 🛠 About Me
 
-I'm a backend software engineer with expertise in Java, Spring, and microservices architecture. With experience in DevOps, CI/CD, and cloud technologies, I have successfully led multiple projects involving backend development, ETL processes, and data migration.
+I'm a backend software engineer with expertise in Java, Spring, and microservices architecture.
 
 🔹 Key Expertise
 
