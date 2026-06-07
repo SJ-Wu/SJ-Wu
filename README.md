@@ -21,6 +21,6 @@ also building **applied ML / computer vision for identity verification**
 
 ---
 
-[![Website](https://img.shields.io/badge/Website-sj--wu.github.io-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white)](https://sj-wu.github.io)
+[![Website](https://img.shields.io/badge/Website-sj--wu.com-2EA44F?style=for-the-badge&logo=githubpages&logoColor=white)](https://sj-wu.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shengjuwu/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickwu0301@gmail.com)
